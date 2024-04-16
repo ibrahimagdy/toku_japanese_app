@@ -42,6 +42,7 @@ class ItemInformation extends StatelessWidget {
               child: IconButton(
                 onPressed: () {
                   item.playSound();
+                  print(item.englishText);
                 },
                 icon: const Icon(
                   Icons.play_arrow,

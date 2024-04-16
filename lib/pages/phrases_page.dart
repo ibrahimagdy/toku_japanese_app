@@ -10,47 +10,47 @@ class PhrasesPage extends StatelessWidget {
     ItemModel(
       japaneseText: "Kuru no ka",
       englishText: "Are you coming",
-      sound: "assets/sounds/phrases/are_you_coming.wav",
+      sound: "sounds/phrases/are_you_coming.wav",
     ),
     ItemModel(
       japaneseText: "Kōdoku o wasurenaide kudasai",
       englishText: "Don't forget to subscribe",
-      sound: "assets/sounds/phrases/dont_forget_to_subscribe.wav",
+      sound: "sounds/phrases/dont_forget_to_subscribe.wav",
     ),
     ItemModel(
       japaneseText: "Kibun wa dō desu ka",
       englishText: "How are you feeling",
-      sound: "assets/sounds/phrases/how_are_you_feeling.wav",
+      sound: "sounds/phrases/how_are_you_feeling.wav",
     ),
     ItemModel(
       japaneseText: "Watashi wa anime ga daisuki desu",
       englishText: "I love anime",
-      sound: "assets/sounds/phrases/i_love_anime.wav",
+      sound: "sounds/phrases/i_love_anime.wav",
     ),
     ItemModel(
       japaneseText: "Watashi wa puroguramingu ga daisuki desu",
       englishText: "I love programming",
-      sound: "assets/sounds/phrases/i_love_programming.wav",
+      sound: "sounds/phrases/i_love_programming.wav",
     ),
     ItemModel(
       japaneseText: "Puroguramingu wa kantan desu",
       englishText: "Programming is easy",
-      sound: "assets/sounds/phrases/programming_is_easy.wav",
+      sound: "sounds/phrases/programming_is_easy.wav",
     ),
     ItemModel(
       japaneseText: "Anata no namae wa nan desu ka",
       englishText: "What is your name",
-      sound: "assets/sounds/phrases/what_is_your_name.wav",
+      sound: "sounds/phrases/what_is_your_name.wav",
     ),
     ItemModel(
       japaneseText: "Doko e iku no desu ka",
       englishText: "Where are you going",
-      sound: "assets/sounds/phrases/where_are_you_going.wav",
+      sound: "sounds/phrases/where_are_you_going.wav",
     ),
     ItemModel(
       japaneseText: "Hai, ikimasu",
       englishText: "Yes, I'm coming",
-      sound: "assets/sounds/phrases/yes_im_coming.wav",
+      sound: "sounds/phrases/yes_im_coming.wav",
     ),
   ];
 
